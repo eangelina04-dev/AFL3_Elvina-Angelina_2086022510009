@@ -1,5 +1,7 @@
 DESKRIPSI SINGKAT
+
 "Proyek portofolio ini dirancang layaknya sebuah memoar digital interaktif. Ini adalah pengalaman yang sangat menyenangkan untuk merangkum seluruh perjalanan, perkembangan keahlian, serta momen berharga saya dalam satu antarmuka. Tema gelap menciptakan estetika yang modern, elegan, dan nyaman di mata. Sementara itu, soft pink bertindak sebagai warna aksen yang menghadirkan nuansa hangat dan ramah, sekaligus memandu fokus visual pengguna pada elemen-elemen penting secara halus."
 
 SHORT DESCRIPTION
+
 "This personal portfolio is designed as an interactive digital memoir. It has been a fun and meaningful experience to document my entire journey, acquired skills, and unforgettable milestones in a personalized interface. The dark theme creates a sleek, modern aesthetic while reducing eye strain. Meanwhile, the soft pink serves as a perfect accent color—adding warmth and personality, while smoothly guiding the user's visual hierarchy to key elements."
