@@ -43,6 +43,11 @@ function validateForm(event) {
         isValid = false;
     }
 
+    if (message.length > 100) {
+        document.getElementById("messageInput").classList.add("is-invalid");
+        isValid = false;
+    }
+
     alertBox.classList.remove("d-none", "alert-success", "alert-danger"); // Reset alert
 
     if (!isValid) {

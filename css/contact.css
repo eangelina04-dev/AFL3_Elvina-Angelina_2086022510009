@@ -24,3 +24,8 @@
 .contact-link:hover {
     color: var(--accent-color) !important;
 }
+
+.custom-input.is-invalid {
+    background-image: none !important;
+    padding-right: 15px !important; 
+}
